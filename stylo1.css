@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+
+body{
+    background-image: url(image/choclo.jpg);
+    
+    background-position: center;
+    background-size: cover;
+}
+
+.valoration-control{
+    color: blueviolet;
+}
+
+.form-control{
+    background-color: transparent;
+    border: black;
+    border-radius: 3px;
+    width: 250px;
+}
+.btn{
+    background-color: transparent;
+    
+}
