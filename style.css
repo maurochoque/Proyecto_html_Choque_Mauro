@@ -13,4 +13,8 @@ body{
     margin-right: 150px;
     height: 300px;
 }
+
+.carousel-indicators{
+    top: 350px;
+}
  
