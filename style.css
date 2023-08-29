@@ -1,0 +1,16 @@
+body{
+    background-image: url(image/fondoFPW.jpeg);
+    
+    background-position: center center;
+    background-size: cover;
+}
+
+.carousel-inner img {
+    
+    max-width: 20%; 
+    margin-top: 40px;
+    margin-left: 550px;
+    margin-right: 150px;
+    height: 300px;
+}
+ 
